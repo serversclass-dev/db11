@@ -17,5 +17,24 @@
       "math"
     ],
     "server_num": 11
+  },
+  "Mohamed": {
+    "username": "Mohamed",
+    "password": "qXC!2lv@@5Rsfkp",
+    "student_type": "علمي",
+    "telegram_user_id": "7608814033",
+    "telegram_username": null,
+    "telegram_first_name": "محمد",
+    "profile_photo_url": null,
+    "session_id": "3300a549-d341-486d-93dd-af531fc317c3",
+    "created_at": "2026-05-11T22:36:02.094033",
+    "verified": true,
+    "last_login": "2026-05-11T22:38:44.654511",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "physics_electric"
+    ],
+    "server_num": 11
   }
 }
